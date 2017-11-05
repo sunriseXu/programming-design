@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509852623 source:c:\users\user\desktop\programming-design\test1\main.cpp
+	<iostream>
+	<cstring>
+
